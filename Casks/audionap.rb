@@ -1,6 +1,6 @@
 cask "audionap" do
-  version "0.3.0"
-  sha256 "be4b14428d995a7459a537aa4165e2088123dd7e4261732a51346b6691921fce"
+  version "0.4.0"
+  sha256 "6da964747b15f36a1c0739d724ce8a6f91934f7b72af33eb1fd68ba42af07c54"
 
   url "https://github.com/IvanTrusenev/audionap/releases/download/v#{version}/AudioNap-#{version}.zip"
   name "AudioNap"
